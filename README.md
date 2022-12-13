@@ -1,0 +1,1 @@
+# Ma-za-olu-turmak-i-in-kodlar
