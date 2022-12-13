@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Sales Site</title>
+</head>
+<body>
+  <h1>Welcome to My Sales Site</h1>
+
+  <h2>Featured Products:</h2>
+  <ul>
+    <li>Product 1</li>
+    <li>Product 2</li>
+    <li>Product 3</li>
+  </ul>
+
+  <h2>Special Offers:</h2>
+  <ul>
+    <li>Discount on Product 1</li>
+    <li>Discount on Product 2</li>
+  </ul>
+
+  <h2>About Us:</h2>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  </p>
+</body>
+</html>
