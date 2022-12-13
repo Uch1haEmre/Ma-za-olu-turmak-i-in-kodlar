@@ -1,1 +1,1 @@
-# Ma-za-olu-turmak-i-in-kodlar
+# MAĞZA OLUŞTURMAK İÇİN KOLDAR #
